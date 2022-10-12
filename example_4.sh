@@ -1,6 +1,7 @@
 mkdir down_ex_4
 cd down_ex_4
-git clone http://localhost:4083/get_info.sh
+
+wget http://localhost:4083/get_info.sh
 
 chmod +x get_info.sh
 gzip get_info.sh
