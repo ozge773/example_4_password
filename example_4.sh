@@ -8,5 +8,3 @@ gzip get_info.sh
 
 scp get_info.sh basanta@172.22.168.180:~/Desktop/scripts
 
-
-rm get_info.sh
